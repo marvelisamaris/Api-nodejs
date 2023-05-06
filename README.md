@@ -1,5 +1,6 @@
 # Api-nodejs
 -Marvelis Amaris Navarro-Caterine Sarmiento
+https://github.com/marvelisamaris/Api-nodejs.git
 
 - Realizar Peticiones GET, POST, PUT, DELETE Usando Thunder Client
 - Prueba con GET-USERS
@@ -30,7 +31,7 @@
 ![image](https://user-images.githubusercontent.com/61302585/236603660-e058e19f-0789-4940-836a-b200e4bb6df7.png)
 
 - Usuario Actualizado
--
+
 ![image](https://user-images.githubusercontent.com/61302585/236603892-5dc44f3b-46b7-422c-b1e1-ad1648ae7056.png)
 
 -Prueba con DELETE-USERS
