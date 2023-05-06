@@ -30,6 +30,7 @@
 ![image](https://user-images.githubusercontent.com/61302585/236603660-e058e19f-0789-4940-836a-b200e4bb6df7.png)
 
 - Usuario Actualizado
+-
 ![image](https://user-images.githubusercontent.com/61302585/236603892-5dc44f3b-46b7-422c-b1e1-ad1648ae7056.png)
 
 -Prueba con DELETE-USERS
@@ -37,6 +38,39 @@
 ![image](https://user-images.githubusercontent.com/61302585/236605749-03f6554a-456b-4653-9d35-c3802c9ba2b6.png)
 
 ![image](https://user-images.githubusercontent.com/61302585/236605811-bbb1a0f6-a28d-4971-a2e0-0866edeb1df2.png)
+
+-Mostramos el localhost y los datos guardados en nuestra bd.
+
+![image](https://user-images.githubusercontent.com/61302585/236606029-8bdaab1a-ebff-42f6-aa6a-3497df27c30a.png)
+
+-PRUEBAS UNITARIAS CON JEST
+
+-GETUSER.TEST.JS
+
+![image](https://user-images.githubusercontent.com/61302585/236606375-d98fce00-a91b-49e5-975e-40b2f54448fc.png)
+
+-GETUSERS.TEST.JS
+
+![image](https://user-images.githubusercontent.com/61302585/236606782-d7502fbc-ffd1-4b3c-b60d-ccee023a290c.png)
+
+-PUTUSER.TEST.JS
+
+![image](https://user-images.githubusercontent.com/61302585/236607354-cdd63bdc-d1fc-436c-aa49-e3cce19aa5df.png)
+
+-POSTUSER.TEST.JS
+
+![image](https://user-images.githubusercontent.com/61302585/236607476-4adf5270-be0b-400d-b67b-44f8fe1a68ad.png)
+
+-DELETEUSERS.TEST.JS
+
+![image](https://user-images.githubusercontent.com/61302585/236607622-befd9b50-2b83-4a82-81cd-f9db295e0118.png)
+
+--Pruebas de integración con Jest y supertest--
+
+INTEGRATION.SPEC.JS
+
+
+
 
 
 
