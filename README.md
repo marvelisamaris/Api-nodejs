@@ -69,6 +69,28 @@
 
 INTEGRATION.SPEC.JS
 
+![image](https://user-images.githubusercontent.com/61302585/236608040-e6e97e8e-e991-4e17-8f44-36bd6860e3de.png)
+
+--CREAMOS Y CONECTAMOS LA BASE DE DATOS MONGODB
+![image](https://user-images.githubusercontent.com/61302585/236608196-715643ca-b2d5-4f36-9c5e-aa73c6ce0a4d.png)
+
+--Implementando Swagger en el API
+
+--API para gestionar usuarios--
+
+![image](https://user-images.githubusercontent.com/61302585/236608663-24142d0b-689a-40cf-becc-363698f7d4c8.png)
+
+![image](https://user-images.githubusercontent.com/61302585/236608783-fb7d2fa4-b71b-44c2-8c0f-5fda6b73b6d5.png)
+
+![image](https://user-images.githubusercontent.com/61302585/236608889-a8e1c3ff-2068-48b4-b835-d992da971e56.png)
+
+
+
+
+
+
+
+
 
 
 
