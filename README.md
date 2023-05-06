@@ -25,4 +25,11 @@
 ![image](https://user-images.githubusercontent.com/61302585/236603245-efc3e615-a912-42f9-874b-e4ff58a96108.png)
 
 -Prueba con PUT-USERS
+-Editando datos de Usuario
+
+![image](https://user-images.githubusercontent.com/61302585/236603660-e058e19f-0789-4940-836a-b200e4bb6df7.png)
+
+- Usuario Actualizado
+![image](https://user-images.githubusercontent.com/61302585/236603892-5dc44f3b-46b7-422c-b1e1-ad1648ae7056.png)
+
 
