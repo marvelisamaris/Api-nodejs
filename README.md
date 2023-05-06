@@ -80,9 +80,27 @@ INTEGRATION.SPEC.JS
 
 ![image](https://user-images.githubusercontent.com/61302585/236608663-24142d0b-689a-40cf-becc-363698f7d4c8.png)
 
+-METODO GET
+
 ![image](https://user-images.githubusercontent.com/61302585/236608783-fb7d2fa4-b71b-44c2-8c0f-5fda6b73b6d5.png)
 
 ![image](https://user-images.githubusercontent.com/61302585/236608889-a8e1c3ff-2068-48b4-b835-d992da971e56.png)
+
+-METODO POST
+
+![image](https://user-images.githubusercontent.com/61302585/236609242-9ebb7c42-1647-4d9a-bfe9-9862f93fbf2c.png)
+![image](https://user-images.githubusercontent.com/61302585/236609263-0bb3aabf-69e7-4ef5-960d-334f7c128df0.png)
+
+-METODO PUT
+
+![image](https://user-images.githubusercontent.com/61302585/236609344-a43cf126-c3ab-47cd-966e-8364b3b9ef24.png)
+![image](https://user-images.githubusercontent.com/61302585/236609363-393a49d8-8a27-4bb0-92aa-9dac028c8f1f.png)
+
+-METODO DELETE
+
+![image](https://user-images.githubusercontent.com/61302585/236609414-7d40dda4-271e-4e8e-abc8-7c5fd62591b2.png)
+![image](https://user-images.githubusercontent.com/61302585/236609428-7540d211-f784-44c7-86e9-fed8d7724025.png)
+
 
 
 
