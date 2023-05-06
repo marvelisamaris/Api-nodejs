@@ -32,4 +32,13 @@
 - Usuario Actualizado
 ![image](https://user-images.githubusercontent.com/61302585/236603892-5dc44f3b-46b7-422c-b1e1-ad1648ae7056.png)
 
+-Prueba con DELETE-USERS
+
+![image](https://user-images.githubusercontent.com/61302585/236605749-03f6554a-456b-4653-9d35-c3802c9ba2b6.png)
+
+![image](https://user-images.githubusercontent.com/61302585/236605811-bbb1a0f6-a28d-4971-a2e0-0866edeb1df2.png)
+
+
+
+
 
